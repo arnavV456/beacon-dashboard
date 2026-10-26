@@ -1,4 +1,4 @@
-# Beacon flights dashboard
+# Avalanche victim detection dashboard
 
 Interactive dashboard of two test flights of a drone carrying a software-defined radio, searching for a radio beacon (avalanche-victim detection capstone project).
 
